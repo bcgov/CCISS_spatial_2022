@@ -1,4 +1,4 @@
-# CCISS_spatial
+# CCISS_spatial_2022
 A first try at a spatial module for the Climate Change Informed Species Selection (CCISS) tool for CWU development. Now retired. 
 Active repo is [CCISS_Spatial](https://github.com/bcgov/CCISS_Spatial).
 
