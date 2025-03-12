@@ -1,5 +1,8 @@
 # CCISS_spatial
-A spatial module for the Climate Change Informed Species Selection (CCISS) tool for CWU development.
+A first try at a spatial module for the Climate Change Informed Species Selection (CCISS) tool for CWU development. Now retired. 
+Active repo is [CCISS_Spatial](https://github.com/bcgov/CCISS_Spatial).
+
+[![Lifecycle:Retired](https://img.shields.io/badge/Lifecycle-Retired-d45500)](<Redirect-URL>)
 
 Directory Working_App contains files for initial spatial prototype that may or may not prove useful. Directory _functions contains R script with two functions for generating feasibility statistics from the BGC projection data. 
 
@@ -46,7 +49,7 @@ The database folder stores scripts to create and optimize species feasibility re
 
 ---
 
-[![Lifecycle:Experimental](https://img.shields.io/badge/Lifecycle-Experimental-339999)](<Redirect-URL>)
+[![Lifecycle:Retired](https://img.shields.io/badge/Lifecycle-Retired-d45500)](<Redirect-URL>)
 
 Copyright 2021 Province of British Columbia
 
